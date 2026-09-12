@@ -2,7 +2,9 @@
 
 Founding engineer. I build production backends and LLM systems on GCP — from schema to deploy.
 
-**Now:** Founding Engineer at Compra, where I've shipped two production SaaS backends end to end.
+**Available for work** — open to fixed-scope backend, API and LLM-agent engagements. Contact below.
+
+**Founding Engineer at Compra** — shipped two production SaaS backends end to end.
 
 **What I work on**
 
